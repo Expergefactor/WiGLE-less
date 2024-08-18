@@ -12,6 +12,8 @@ Default proximities set at:
 * 150m of a set SSID
 * 250m of a set location
 
+Proximity value can be edited in the code. A note has been added to areas which can be etited for location proximities only but SSID proximity can also be edited if you like. 
+
 ### WHY?
 WiGLE-less is a toolkit for people wanting to:
     * Contribute to the WiGLE project in a (slightly) anonymous manner,
