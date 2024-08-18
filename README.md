@@ -1,7 +1,5 @@
 # WiGLE-less
 WiGLE Wardriving...just a little bit less. 
-
-WiGLE-less by Expergefactor...
     
 ### WHAT IS IT?
 This software is designed to be used with CSV files exported from the WiGLE WiFi
