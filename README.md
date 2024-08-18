@@ -16,15 +16,12 @@ Proximity values can be edited in the code. A note has been added to areas which
 
 ### WHY?
 WiGLE-less is a toolkit for people wanting to:
-    * Contribute to the WiGLE project in a (slightly) anonymous manner,
-    * Have the ability to remove specified Wi-Fi networks from a database export
-      prior to uploading to the WiGLE project,
-    * Have the ability to remove specified locations from a database export
-      prior to uploading to the WiGLE project,
-    * Build incremental, 'Wardriven' maps from the cleansed data to display routes
-      within the processed data,
-    * Combine previously generated 'Wardriven' maps into a single 'Master' map,
-without wanting to retain copies of the database files other than for the purposes above.
+
+* Contribute to the WiGLE project in a (slightly) anonymous manner,
+* Have the ability to remove specified Wi-Fi networks from a database export prior to uploading to the WiGLE project,
+* Have the ability to remove specified locations from a database export prior to uploading to the WiGLE project,
+* Build incremental, 'Wardriven' maps from the cleansed data to display routes within the processed data,
+* Combine previously generated 'Wardriven' maps into a single 'Master' map, without wanting to retain copies of the database files other than for the purposes above.
 
 ### SERIOUSLY, WHAT'S THE POINT?
 It has purpose for me. If you can think of one too, great!
