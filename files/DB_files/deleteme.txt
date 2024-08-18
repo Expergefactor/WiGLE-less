@@ -1,1 +1,1 @@
-
+This file is a placeholder for the file structure required by WiGLE-less. The 'DB_files' directory must exist. 
