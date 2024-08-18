@@ -1,0 +1,1 @@
+This file is created to generate the correct folder structure required by WiGLE-less
