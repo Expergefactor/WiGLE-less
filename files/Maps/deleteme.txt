@@ -1,1 +1,1 @@
-This file is created to generate the correct folder structure required by WiGLE-less
+This file is a placeholder for the file structure required by WiGLE-less. The 'Maps' directory will be automatically generated if not exists. 
