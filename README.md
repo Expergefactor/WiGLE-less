@@ -21,11 +21,11 @@ WiGLE-less is a toolkit for people wanting to:
 without wanting to retain copies of the database files other than for the purposes above.
 
 ### SERIOUSLY, WHAT'S THE POINT?
-    It has purpose for me. If you can think of one too, great!
-    If nothing else, it's a convoluted method of mapping your travels :)
+It has purpose for me. If you can think of one too, great!
+If nothing else, it's a convoluted method of mapping your travels :)
 
-    While you're here, I'm no developer. This is a hobby built from scratch. I'm sure that
-    the code is, errm..., please be kind or constructive :) 
+While you're here, I'm no developer. This is a hobby built from scratch. I'm sure that
+the code is, errm..., please be kind or constructive :) 
   
 ### DEVELOPED WITH:
  WiGLE WiFi Wardriving app      - Version v.2.85 for Android
@@ -36,9 +36,10 @@ without wanting to retain copies of the database files other than for the purpos
 DB saved to local storage (Android) using a File Browser & extracted with Gnome.
 
 ### TESTED WITH:
-    Max. DB size circa. 400k records
-    >20 specified locations
-    <10 specified networks
+* Max. DB size circa. 400k records
+* Over 20 specified locations
+* Under 10 specified networks
+  
 Processing time varies with size of DB to be processed (& obviously your hardware).
 
 ### REQUIREMENTS:
@@ -47,11 +48,12 @@ Processing time varies with size of DB to be processed (& obviously your hardwar
   * pandas (built with version 2.2.2)
   * matplotlib (built with version 3.9.1)
   * folium (built with version 0.17.0)
+
 Use: 
-      $ pip install geopy pandas matplotlib folium
+
+    pip install geopy pandas matplotlib folium
 
 ### IN SUPPORT OF:
-  WiGLE - https://wigle.net/
-      
-  Thanks to bobzilla & the team, keep up the amazing work!
+  WiGLE - https://wigle.net Thanks to bobzilla & the team, keep up the amazing work!
+  
   Upload database files here: https://wigle.net/uploads/
