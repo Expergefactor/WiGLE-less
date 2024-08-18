@@ -8,6 +8,10 @@ can remove records of specified networks (SSIDs) and records within a proximity 
 specified (GPS) locations whilst retaining the file format and metadata to allow
 remaining data to contribute to the WiGLE project (if desired).
 
+Default proximities set at:
+* 150m of a set SSID
+* 250m of a set location
+
 ### WHY?
 WiGLE-less is a toolkit for people wanting to:
     * Contribute to the WiGLE project in a (slightly) anonymous manner,
